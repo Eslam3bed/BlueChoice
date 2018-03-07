@@ -1,0 +1,24 @@
+{
+  "name": "passportDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "handlebars": "^4.0.11",
+    "mongoose": "^5.0.8",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.1"
+  }
+}
